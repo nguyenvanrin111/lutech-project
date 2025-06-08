@@ -82,6 +82,7 @@ body {
 
 .feedback_item {
     background-color: #000;
+    min-width: 400px;
     margin: 0 10px;
     padding: 20px 10px;
     color: #ffd700;

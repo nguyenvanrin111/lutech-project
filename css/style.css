@@ -88,6 +88,12 @@ body {
     color: #ffd700;
 }
 
+.about_text{
+    width: 500px;
+    min-width: 400px;
+    padding: 20px;
+    
+}
 /* Adjustments for smaller screens (Bootstrap handles much of this, but you can add more if needed) */
 @media (max-width: 768px) {
     .hero {
